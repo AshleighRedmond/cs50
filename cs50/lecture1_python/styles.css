@@ -1,0 +1,14 @@
+.searchform {
+	padding: 70px 0;
+	text-align: center;
+}
+
+#corners {
+	border-radius: 25px;
+	border: 1px solid;
+	padding-right: 70px;
+	padding-left: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin: 15px;
+}
