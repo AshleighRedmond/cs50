@@ -1,14 +1,37 @@
 .searchform {
-	padding: 70px 0;
 	text-align: center;
 }
 
 #corners {
 	border-radius: 25px;
 	border: 1px solid;
-	padding-right: 70px;
-	padding-left: 15px;
+	border-color: #d3d3d3;
+	padding-right: 350px;
+	padding-left: 30px;
 	padding-top: 5px;
 	padding-bottom: 5px;
 	margin: 15px;
+	font-size: 16px;
+	font-family: arial, sans-serif;
+	line-height: 60px;
+	height: 32px;
+}
+
+.google-logo {
+	text-align: center;
+}
+
+.container {
+	margin-top: 150px ;
+
+}
+
+p.header-links {
+	display: inline-block;
+	padding-right: 10px;
+	margin-right: 10px;
+}
+
+.header {
+	text-align: right;
 }
